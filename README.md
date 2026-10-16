@@ -65,3 +65,9 @@ Visit:
 ## Project Status
 
 Completed as an introductory hands-on DevOps learning project.
+
+## Project Screenshot
+
+Here is a preview of my Dockerized website.
+
+![My DevOps Portfolio Website](screenshot.png)
