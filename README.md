@@ -70,4 +70,4 @@ Completed as an introductory hands-on DevOps learning project.
 
 Here is a preview of my Dockerized website.
 
-![My DevOps Portfolio Website](screenshot.png)
+![My DevOps Portfolio Website](screenshot.png.png)
